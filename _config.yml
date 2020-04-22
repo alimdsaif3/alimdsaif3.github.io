@@ -61,10 +61,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: "https://twitter.com/alimdsaif3"
-  username               : "alimdsaif3@gmail.com"
-facebook: "https://www.facebook.com/md.s.ali.7543"
-  username               : "alimdsaif3@gmail.com"
+twitter: 
+  username               : 
+facebook: 
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/alimdsaif3"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
