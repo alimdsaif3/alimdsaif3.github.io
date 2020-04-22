@@ -8,10 +8,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name"
+locale                   : "Bangalore-India"
+title                    : "MD SAIF ALI"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "MD SAIF ALI"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,10 +61,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
+twitter: "https://twitter.com/alimdsaif3"
+  username               : "alimdsaif3"
+facebook: "https://www.facebook.com/md.s.ali.7543"
+  username               : "alimdsaif3@gmail.com"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MD SAIF ALI"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  location         : "Hoodi Circle, Whitefield-Bangalore"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "https://github.com/alimdsaif3"
   gitlab           :
   google_plus      :
   keybase          :
