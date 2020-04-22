@@ -1,5 +1,5 @@
 ---
-title: "Attrition_EDA & Feature Engineering"
+title: "AFE"
 date: 2019-04-09
 tags: [Load Libraries,Exploratory Data Analysis(EDA),Feature engineering and selection,Target Distribution,Features encoding and scaling,Correlation Matrix,]
 header:
